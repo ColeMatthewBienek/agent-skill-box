@@ -1,0 +1,4 @@
+interface:
+  display_name: "Efficient Sol"
+  short_description: "Route work by complexity with Sol as orchestrator"
+  default_prompt: "Use $efficient-sol to orchestrate this task with Codex Sol Extra-High and delegate bounded work according to complexity."
